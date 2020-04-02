@@ -1,7 +1,5 @@
-remote repository of git_tutorial
-
+//for command line git tutorial
+//GitHub modification
 
-exit
-:wq
-wq!
-:wq!
+remote repository of git_tutorial
+
